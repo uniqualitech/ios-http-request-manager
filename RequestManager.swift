@@ -1,11 +1,3 @@
-//
-//  RequestManager.swift
-//  Iroid
-//
-//  Created by iroid on 30/03/18.
-//  Copyright © 2018 iroidiroid. All rights reserved.
-//
-
 import UIKit
 import Alamofire
 
